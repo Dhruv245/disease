@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651184535891",
+    "firebase_url": "https://dhruv-firebase.firebaseio.com",
+    "project_id": "dhruv-firebase",
+    "storage_bucket": "dhruv-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651184535891:android:66953b090cd631b9ee49a6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651184535891-5iqsc3k5oito6m6v1nisfdorjq26ufkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7uyAn68L0RR2ImJ2hpmYZIRwlX57KpIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651184535891-5iqsc3k5oito6m6v1nisfdorjq26ufkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
